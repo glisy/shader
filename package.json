@@ -1,0 +1,17 @@
+{
+  "name": "glisy",
+  "version": "0.0.1",
+  "repo": "glisy/shader",
+  "description": "GlisyShader module",
+  "keywords": [
+    "glisy",
+    "shader"
+  ],
+  "src": [
+    "include/glisy/shader.h",
+    "src/shader.c"
+  ],
+  "dependencies": {
+    "glisy/gl": "master"
+  }
+}
